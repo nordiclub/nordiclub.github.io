@@ -1,0 +1,40 @@
+title: Кофейня Nordiclub
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github:
+  instagram: nordiclub
+  linkedin:
+  pinterest:
+  rss: 
+  twitter: 
+  stackoverflow: # stackoverflow profile, e.g. "users/50476/bart-ki
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  
+# Set the Sass partials directory, as we're using @imports
+sass:
+  sass_dir: css
+  style: :compressed
+  
+general-email:
+  kotlingeneral@yandex.ru
+  
+dir-email:
+  dir@nordiclub.ru
+
+art-mail:
+  art@nordiclub.ru
+  
+it-mail:
+  it@nordiclub.ru
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
