@@ -2,7 +2,6 @@ title: Кофейня Nordiclub
 
 footer-links:
   dribbble:
-  vk: nordiclub
   email:
   facebook: nordiclub
   flickr:
@@ -15,6 +14,7 @@ footer-links:
   stackoverflow: # stackoverflow profile, e.g. "users/50476/bart-ki
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  vk: nordiclub
   
 # Set the Sass partials directory, as we're using @imports
 sass:
